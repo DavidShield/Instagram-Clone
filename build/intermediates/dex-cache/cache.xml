@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/8cb6b48ee0598aa3704c0a79fc27f277760b5137/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba4d5c706a96d79ff5ac3691a605ad58f38262fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/5ec468052c40e4a90257f04d8217ef080bd70293/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e14e2359e53cf59a862b9936b2fdcbb1a03d829b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/c439d625ee0e4f3ca9d8d4511feea37a99ffcb5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_606118063c55a0723a60bf52c1cba960a907ad41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/967a6016eabc0f6deea29ea11c28b726bea52dbf/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_2a80733d0cbfb5efe0b168e19a8f65b3c13c5832/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/102b4fbb33eaf3e806cf8dcb9e801218ca736138/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20402c67d205f09bbacd05bc70f293390376094f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/811ff48079c5baa059ddfdee02833fc7637fd32d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_805a056e5869d5f816ec05486f9dc05e2ea58d1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/4e11b1e4952407cb345e7dba37d147fb291523b4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f86c642e9c8f753c63b33d1495c6fcc019023dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/e97a289de4446657a2245c20abd5fcbdae77f38d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6c925ab1572939582e83f6509e010a63f7bc355/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/be0234ea3aa8377c2eee2b479f56c309c32e7c04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0bdbbdf4bd5a7c8bf4c52feaf06bcf086e5cca2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/cb2e6e86d166676e84ac761e3d0c7b9c6049d0d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f51426a5b1b3b3c5ed3d658fe0c39925861858a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/6d7950b4292428475c40b7bcbb6c0310abe18a40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a46c1c878d87d6eccd28a5aa53a05b711ff049e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/1b081fca7d42658d213d42a30f80b3b6f89ae9a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c708c65091e5b2f4801123cf462229e0a94a3af3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/bee842a56c13a902856b10be63fae68b347e44d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d879260819296cde68893843909245b89c62f3f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/fd6c6c414d0f2df27da36bacfe06fcf1a2671cdc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_059a5c5e0815a6d4a63aaf6ee09fbb1b851bc312/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/54e250838f87ab854a247252db28f2489c40b7ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c68c29f83267e49d65d084ce99ce81095f93069f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/89c4f05c97a908dc2ae546202aea60fcb92b8121/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d1e2fcc92a2f9c0ff2cfd15fd3710a6a49879b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/0174e29ff0e86e528f1cea2a4368c829b5122554/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc627229bbc9214caa7b2a1f6a9808f4b4bbef7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/6fbb0d3422ec68e6291562ddd937bc57ba3c5361/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4fea2f0eccadea8c057e898acd6bd00d7d060106/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/926a2e2492f0910b2c971283a602178487ba6c0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_167bf3aa26a3c5f04f5686de7c5716fdb32dc6c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/bfa21aba12a3b641a9796ce4817af072822b5916/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4dd650892e7888c22d34b9599b41d49e53222271/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/aec37d7813ecb89aebee272b23bacbbac2f5fb70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2df20865ec1ab598f350babb52ebcacdc147f631/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/9dd509effd2562ed4121f9b241b56d5299e54551/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2ab661bdd89d0bb1a6d975f6f1209d7ea947ab6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/f1d6d9428c5cd85f4ae766ef158f1bac80070c47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ce3e49e83ea099111318ce05a26943b92f4122d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/4bcfdf9f102593d6a1a049832c531f690623f544/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54cf2c53a7823ba101eb413db7287fee2314ee28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/92228750cbff4099d77274b75d2e78532d27ac94/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f1846a2ae82fb94344109325050479cb26746b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/047b6e2c7d350a0a47f4bc0a99415f65b59aea05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b382cc2f6ef219757a72e9a8a3876011bf2d5fb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/df9421eeb71884a03d009b7a4123c65921335934/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41d98651ff72f8a9d546110f9987bdbd9fe48582/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/0b0f35ab23c0a3dc8e50c5ebda4c91228ce97d54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8fdc69661cdeaef06df60278507453355da021f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_9f83d890f7099968e54bbab3c24abf2eaf5f059f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/9d131f0ab8ec55d006383209e5ba64cc1e562717/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1f4f1bbf5de8e46743c832389457d0b4701a3f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_078925a2210c07a249a52530efccc9f79eef62c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/a9868077a4e6e076c0975c8caeeb8617f8d4b911/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b110daefd9a0d29003e799ebb0eef445aef7ccf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/0602591a45799cc2803e9533ad0ca8ccf4269081/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_868421b4df8a99068fb367446bf58b78dbe164ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/40e7e5c6a4749ca1e0a2fc84a9d032190eea4ff5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7893dc4be93891061c182fbfe2f56ba5724c1cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.1/4d060ca3190df0eda4dc13415532a12e15ca5f11/okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.1_076cbebff7215e04f66bcb010ce24a3ac3dada7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/ee10fa9d78845b560f92f6b05e11868c1814beb8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a51d246379a2e0423b32ee8bf71b428e50917c90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/ca9175705852edb72379c508e2ba0b3406b87599/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb0252630981177e0d12517e2eee628c08055041/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/e7503d8ffd03164c857daa69cd9322d79c46119d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d789d50cbab0c1c83b145fd658d084cc78654f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/dcb50ef53dff55cb375b44f22f483fb9693de18a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf24b27cbcf3470d9d1726f5773f176fa7c61946/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.1/e1bb32b12b25e2f78e6786059ca7ea878f8345e0/support-annotations-26.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.1_c304cc1dbdd6a80e32540421574c630b60ae2c1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/7264cf8fb20d54384031e788eabac850cb318573/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e2548bfca1b20a956b5e12b72c2869073dd27683/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/2b2544f6aa6525b6f894b01b8fabf14b8f65adc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c3cb8c0ce329c8feb029109735bb181d35b0f0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/48ad51d041137ca418aee6545cfb89beead3e300/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fab183e93d9e0cd6d6d3e111a4ab4c783e2df359/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/339efabc347fd4da28dc27ddce246425cdcd3a23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_250af180188632b3707e4c5c8cdd9fbd2ac545b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/123f519a1bd2d66c1009ee2acc15975e6fb55972/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6592999fbcf16d933403e0ff66aae179afca159/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/4c5f93f1bf0858f949b248875ab64b465521089b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_882496601462200ff9aa0ea0ee350118e2543375/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/67a65be132a0cca9b88c44d115415cd222bc7cdb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cfae356c05415795e459efb5f577206dec4acf45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/a87378261e8f9e508da9922c0e2afdbf2521876e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_106c8910eb3a5df3041f0deb0ef39566f076d721/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/24494c8aa9645d57ec1a567adffc726af68eb5d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1179f0f68f1ceeedd2fc65c81811fa65b9396582/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/180fa92e18818df671a575ee1b1fde468a39c58f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1a50f6a79e1d4992ca2351967e5ff4657bcb6b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_70ca35e08e5b9e5b0b17b2a7fc212f35290d98da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/0602591a45799cc2803e9533ad0ca8ccf4269081/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_4e493029a683369d12528d45879786dbd3dda2a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/49a70c1aa6deae2573f22320a5105817ac687edc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25ec60e5bbd795afe356a268b493ab7d4154a86d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/640a58b4c33fdb1e86a42f2cad7f95aed2724b98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6458fecd1578c2c13a5df186a1f76673ed470e8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/1f4eb1d342002bb57338574277471505cb609ae0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55313256529675c649cd78cd2c0c6b85e64be295/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/6dc25005bab3e0a3871a90eb9912b9294fc5505a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fdd698cb1ac201f2bbe227fd5ea4af662f6f9dd0">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_431d29a5f7a53941e533eafbc18650271c819c67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/1f0fb24c7095ed1e65e2e6e46e500aa4f0635dda/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ef4cc48e9faf1b5ae34d94197e1121dd2e09ad8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/90a526a1513c4a368c4734fa8f2420c3c6104164/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a95dacf186bde89b7911f1e96d33c8294ac03430/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/967a6016eabc0f6deea29ea11c28b726bea52dbf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57d1cbefd571b22068c8914cf35a98a86f45fb19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/0dbe888ff8e073ec23b043d12075a39d52045494/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1cfdf5caf590591cb648dcf8375ef9b27db848c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shield/.android/build-cache/8c4c3bf7ad803ecc4111560cbaa8f5837e94c72e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/shield/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5784b038436b55810945eb6626e302712056d374/classes.dex" />
+    </item>
+
+</items>
